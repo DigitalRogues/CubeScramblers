@@ -1,8 +1,6 @@
 # Cube Scramblers
 
-A collection of scrambling algorithms for various programming languages
-
-So far I have
+A collection of scrambling algorithms for various programming languages that I have written for one reason or another.
 
 - Lua
   - used in a World of Warcraft addon
